@@ -13,6 +13,7 @@
 		A8539847261B7E1700A19EE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8539846261B7E1700A19EE4 /* Assets.xcassets */; };
 		A853984A261B7E1700A19EE4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8539849261B7E1700A19EE4 /* Preview Assets.xcassets */; };
 		A853984D261B7E1700A19EE4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A853984B261B7E1700A19EE4 /* LaunchScreen.storyboard */; };
+		A8539856261B7F1400A19EE4 /* GameUISlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8539855261B7F1400A19EE4 /* GameUISlider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A8539849261B7E1700A19EE4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A853984C261B7E1700A19EE4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A853984E261B7E1700A19EE4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A8539855261B7F1400A19EE4 /* GameUISlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameUISlider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A8539840261B7E1400A19EE4 /* AppDelegate.swift */,
 				A8539842261B7E1400A19EE4 /* SceneDelegate.swift */,
 				A8539844261B7E1400A19EE4 /* ContentView.swift */,
+				A8539855261B7F1400A19EE4 /* GameUISlider.swift */,
 				A8539846261B7E1700A19EE4 /* Assets.xcassets */,
 				A853984B261B7E1700A19EE4 /* LaunchScreen.storyboard */,
 				A853984E261B7E1700A19EE4 /* Info.plist */,
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A8539856261B7F1400A19EE4 /* GameUISlider.swift in Sources */,
 				A8539841261B7E1400A19EE4 /* AppDelegate.swift in Sources */,
 				A8539843261B7E1400A19EE4 /* SceneDelegate.swift in Sources */,
 				A8539845261B7E1400A19EE4 /* ContentView.swift in Sources */,
